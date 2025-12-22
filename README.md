@@ -1,4 +1,4 @@
-# Hi there, I'm Naren! 👋 
+# Hi there, I'm Naren S J! 👋 
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Full%20Stack%20Developer&fontSize=70&animation=fadeIn" />
@@ -14,7 +14,7 @@ I am a passionate **Full Stack Web Developer**, **Prompt Engineer**, and **Cyber
 
 ---
 
-### 🐍 My Contribution Snake
+###  My Contribution
 ![github contribution grid snake animation](https://github.com/Naren1520/Naren1520/blob/output/github-contribution-grid-snake.svg)
 
 ---
@@ -58,6 +58,3 @@ I am a passionate **Full Stack Web Developer**, **Prompt Engineer**, and **Cyber
 <a href="mailto:narensonu1520@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<p align="center"> 
-  <img src="https://visitcount.itsvg.in/api?id=Naren1520&icon=0&color=0" alt="visitor count" />
-</p>
