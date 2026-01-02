@@ -40,14 +40,16 @@ I am a passionate **Full Stack Web Developer**, **Prompt Engineer**, and **Cyber
 ---
 
 ### 📊 GitHub Analytics
+
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Naren1520&theme=radical&show_icons=true&count_private=true" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Naren1520&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Naren1520&theme=radical&show_icons=true&cache_seconds=86400" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=Naren1520&theme=radical" />
 </p>
 
 <p align="center">
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naren1520&theme=radical&layout=compact" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naren1520&theme=radical&layout=compact&cache_seconds=86400" />
 </p>
+
 
 ---
 
