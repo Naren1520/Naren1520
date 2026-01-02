@@ -1,16 +1,16 @@
-# Hi there, I'm Naren S J! 👋 
+# Hi there, I'm Naren S J!  
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Full%20Stack%20Developer&fontSize=70&animation=fadeIn" />
 </p>
 
-### 💫 About Me
+###  About Me
 I am a passionate **Full Stack Web Developer**, **Prompt Engineer**, and **Cyber Security Enthusiast**. I thrive on building scalable web applications and exploring the intersection of AI and Security.
 
-* 🔭 I’m currently working on enhancing my MERN stack expertise.
-* 🌱 Learning more about Advanced Cyber Security & Cloud Architecture.
-* 💬 Ask me about **React, Next.js, or Prompt Engineering**.
-* ⚡ Fun fact: I love bridging the gap between design and clean code.
+*  I’m currently working on enhancing my MERN stack expertise.
+*  Learning more about Advanced Cyber Security & Cloud Architecture.
+*  Ask me about **React, Next.js, or Prompt Engineering**.
+*  Fun fact: I love bridging the gap between design and clean code.
 
 ---
 
@@ -19,7 +19,7 @@ I am a passionate **Full Stack Web Developer**, **Prompt Engineer**, and **Cyber
 
 ---
 
-### 🛠️ Tech Stack & Skills
+###  Tech Stack & Skills
 
 #### **Frontend & Design**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -36,22 +36,6 @@ I am a passionate **Full Stack Web Developer**, **Prompt Engineer**, and **Cyber
 - **Web Development Intern** @ Sahynex Tech Solutions
 - **Web Development Lead** @ ISDC, Sahyadri
 - **Full Stack Developer** @ Challengers, Sahyadri
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="./assets/github/stats.svg" height="165" />
-  <img src="./assets/github/streak.svg" height="165" />
-</p>
-
-<p align="center">
-  <img src="./assets/github/langs.svg" height="165" />
-</p>
-
-
-
 
 ---
 
