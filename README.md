@@ -17,7 +17,7 @@
 
 ---
 
-## ⚡ Who Am I?
+##  Who Am I?
 
 ```ts
 const naren = {
@@ -39,7 +39,7 @@ const naren = {
 
 ---
 
-## 🏆 Achievements Unlocked
+##  Achievements Unlocked
 
 <div align="center">
 
@@ -56,7 +56,7 @@ const naren = {
 
 ---
 
-## 🚀 Experience Timeline
+##  Experience Timeline
 
 ```
 2024 Oct ──────────────────────────────────────────── Present
@@ -76,7 +76,7 @@ const naren = {
 
 ---
 
-## 🛠️ Tech Arsenal
+##  Tech Arsenal
 
 <div align="center">
 
@@ -121,25 +121,9 @@ const naren = {
 
 ---
 
-## 📦 Shipped Projects
-
-<div align="center">
-
-| Project | Stack | Scale |
-|:---|:---|:---:|
-| 🏢 **Sahynex Official Website** | Next.js · MongoDB | 3,000+ users |
-| 📋 **Student Manager** | WhatsApp API · Excel · CSV | 5,000+ users |
-| 🎓 **SCEM MBA Website** | REST APIs · Responsive UI | 500+ users |
-| 🌐 **ISDC Official Website** | Content CMS | 40% faster updates |
-| 📦 **NexStock** | C · Chart.js | Inventory at scale |
-| 🗳️ **Voting Manager** | C++ | Secure vote system |
-| ✈️ **Aerophilia 2025 Platform** | MERN Stack | 2,000+ attendees |
-
-</div>
-
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Naren1520&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00ffcc&icon_color=a78bfa&text_color=ffffff" />
@@ -152,7 +136,7 @@ const naren = {
 
 ---
 
-## 🐍 My Contribution Snake
+##  My Contributions
 
 <div align="center">
 
@@ -162,7 +146,7 @@ const naren = {
 
 ---
 
-## 🌐 Find Me Online
+##  Find Me Online
 
 <div align="center">
 
