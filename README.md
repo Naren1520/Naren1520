@@ -131,7 +131,7 @@ const naren = {
 </div>
 
 <div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naren1520&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00ffcc&text_color=ffffff" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naren1520&layout=compact&langs_count=20&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00ffcc&text_color=ffffff" />
 </div>
 
 ---
