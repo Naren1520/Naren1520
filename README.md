@@ -1,4 +1,3 @@
-
 <!--
   HERO HEADER SECTION
   Utilizes live profile image sourcing via wsrv.nl proxy, bound to a unified terminal theme.
