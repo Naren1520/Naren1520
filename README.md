@@ -1,17 +1,11 @@
-<!--
-  NOTE: No image file was uploaded — only the resume PDF came through.
-  The line below uses your live GitHub avatar as a placeholder.
-  To swap it: upload your photo to this repo (e.g. /assets/profile.png)
-  and replace the src with the raw GitHub URL of that file.
--->
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:001a0d&height=3&width=100%"/>
 
-<img src="https://github.com/Naren1520.png" width="140" style="border-radius:50%;border:4px solid #00FF41;box-shadow:0 0 25px #00FF41;"/>
+<img src="https://wsrv.nl/?url=github.com/Naren1520.png&w=900&h=300&fit=cover&bri=-60&con=15&sat=-30&output=png" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1b0f,100:000000&height=210&section=header&text=NAREN%20S%20J&fontSize=68&fontColor=00FF41&animation=fadeIn&fontAlignY=36&desc=root%40isdc%3A~%23%20Full-Stack%20Engineer%20%2F%2F%20Security-Minded%20Builder&descSize=16&descColor=39FF14&descAlignY=56"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0d1b0f,100:000000&height=210&section=header&text=NAREN%20S%20J&fontSize=68&fontColor=00FF41&animation=fadeIn&fontAlignY=36&desc=root%40isdc%3A~%23%20Full-Stack%20Engineer%20%2F%2F%20Security-Minded%20Builder&descSize=16&descColor=39FF14&descAlignY=56"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=70&lines=root%40naren%3A~%23+initializing+session...;%5BOK%5D+10%2B+production+platforms+deployed;%5BOK%5D+3%2C000%2B+users+served+in+prod;%5BOK%5D+clearance_level%3A+TECHNICAL_HEAD"/>
 
