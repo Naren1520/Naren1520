@@ -386,7 +386,7 @@ AI-powered project management ecosystem focused on automation, collaboration, an
 
 ---
 
-<img src="./assets/divider.svg" width="100%">
+<img src="./assets/divider3.png" width="100%">
 # ⚙ Engineering Toolkit
 
 > Technologies are just tools. My focus is choosing the right ones to build reliable, scalable and maintainable software.
