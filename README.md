@@ -533,7 +533,7 @@ AI-powered project management ecosystem focused on automation, collaboration, an
 
 > **"Technology evolves constantly. Strong engineering principles remain timeless."**
 
-<img src="./assets/divider.svg" width="100%">
+<img src="./assets/divider1.png" width="100%" style="border-radius:20px">
 #  Engineering Journey
 
 > Every opportunity has been a chance to build products, lead teams, and solve real-world engineering challenges.
