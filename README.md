@@ -96,26 +96,25 @@ while (alive)
 <br>
 
 <table width="100%">
+
 <tr>
 
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-## 🏢 Production Platforms
+## 🏢 Production
 
 - 🚀 SPManager
-- 🎓 Placement Management System
-- 🎪 Aerophilia 2025
-- 🏫 Hostel Management System
+- 🎓 Placement Management
+- 🎪 Aerophilia
+- 🏫 Hostel Management
 - 🏛️ ISDC Platform
-- 📚 MBA Department Portal
-- 🍽️ Tandoor Restaurant Platform
-- 🛕 Shreematha Website
-- 💼 Sahynex Client Projects
-- 🌐 Personal Portfolio
+- 📚 MBA Portal
+- 🍽️ Tandoor
+- 🌐 Portfolio
 
 </td>
 
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ## 🤖 Artificial Intelligence
 
@@ -127,52 +126,39 @@ while (alive)
 - 🚦 Traffix AI
 - 🛡️ WAF Transformer
 - 📊 AI Resume Analyzer
-- 📝 AI Notes Generator
 
 </td>
 
-</tr>
-</table>
-
----
-
-<table width="100%">
-<tr>
-
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ## 🔗 Blockchain & Web3
 
 - ⛓️ CredChain
 - 💼 WorkFox
-- 💳 Offline Payment System
-- 🔐 Smart Contract Experiments
+- 💳 Offline Payments
+- 🔐 Smart Contracts
 - 🪙 Ethereum DApps
 
 </td>
 
-<td width="50%" valign="top">
+</tr>
+
+<tr>
+
+<td width="33%" valign="top">
 
 ## ☁️ Cloud & DevOps
 
-- 🐳 Docker Deployments
-- ☸ Kubernetes Experiments
-- ⚡ CI/CD Pipelines
-- 🌍 Cloudflare Integrations
-- 📦 Containerized Platforms
-- 🔄 Reverse Proxy Systems
+- 🐳 Docker
+- ☸ Kubernetes
+- ⚡ CI/CD
+- 🌍 Cloudflare
+- 📦 Containers
+- 🔄 Reverse Proxy
 
 </td>
 
-</tr>
-</table>
-
----
-
-<table width="100%">
-<tr>
-
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ## 📱 Productivity & SaaS
 
@@ -180,16 +166,14 @@ while (alive)
 - 📦 NexStock
 - 🎓 CampusLink
 - 📝 Notes App
-- 🌐 Language Translator
+- 🌐 Translator
 - 📖 Dictionary
 - 🧮 SGPA Calculator
 - 📅 Event Manager
-- 💰 Expense Tracker
-- ⏱️ Attendance Tracker
 
 </td>
 
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ## 💻 Developer Tools
 
@@ -201,80 +185,58 @@ while (alive)
 - 🔥 Markdown Previewer
 - 🔍 JSON Formatter
 - ⚡ Regex Playground
+- 🔒 Authentication Systems
+- 🌍 URL Shortener
+- 📤 File Sharing
+- 📈 Analytics Dashboard
 
 </td>
 
 </tr>
-</table>
 
----
-
-<table width="100%">
 <tr>
 
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ## 📡 Real-Time Systems
 
 - 💬 Chat Application
-- 📹 Video Meeting Platform
-- 📢 Live Notification System
-- 🔔 Real-Time Dashboard
-- 📍 Live Location Tracker
+- 📹 Video Meetings
+- 📢 Live Notifications
+- 🔔 Dashboards
+- 📍 Live Tracking
 
 </td>
 
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-## 🌐 Web Experiences
+## 🌐 Interactive Web
 
 - 🌦️ Weather App
 - 🎬 Movie Platform
 - 🎹 Virtual Piano
-- ⌨ Typing Speed Test
+- ⌨️ Typing Test
 - 🎨 SketchOn
 - 📷 QR Generator
 - ⏰ Analog Clock
-- ⏱ Stopwatch
-- 🎲 Interactive Games
+- 🎮 Mini Games
 
 </td>
 
-</tr>
-</table>
-
----
-
-<table width="100%">
-<tr>
-
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ## 📱 Mobile & IoT
 
-- ⚡ Hydrogen Monitoring System
-- 📲 Flutter Applications
-- 🌡️ IoT Monitoring Dashboard
+- ⚡ Hydrogen Monitoring
+- 📲 Flutter Apps
+- 🌡️ IoT Dashboard
 - 📡 ESP32 Projects
-- 🔥 Firebase Integrations
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🧪 Experimental Projects
-
-- 🔒 Authentication Systems
-- 🌍 URL Shortener
-- 📤 File Sharing
-- 📈 Analytics Dashboards
-- 🎭 UI Experiments
-- ⚡ Performance Benchmarks
-- 🧩 Design System Components
+- 🔥 Firebase
 
 </td>
 
 </tr>
+
 </table>
 
 ---
