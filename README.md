@@ -250,15 +250,15 @@ while (alive)
 
 | Domain | Projects |
 |---------|---------:|
-| 🏢 Production Platforms | **10+** |
-| 🤖 Artificial Intelligence | **8+** |
-| 📱 Productivity & SaaS | **10+** |
-| ☁ Cloud & DevOps | **6+** |
-| 💻 Developer Tools | **8+** |
-| 🔗 Blockchain & Web3 | **5+** |
-| 📡 Real-Time Applications | **5+** |
-| 📱 Mobile & IoT | **5+** |
-| 🎨 Interactive Web Experiences | **10+** |
+| <img src="https://img.icons8.com/fluency/20/company.png" width="18" /> Production Platforms | **10+** |
+| <img src="https://img.icons8.com/fluency/20/artificial-intelligence.png" width="18" /> Artificial Intelligence | **8+** |
+| <img src="https://img.icons8.com/fluency/20/task.png" width="18" /> Productivity & SaaS | **10+** |
+| <img src="https://img.icons8.com/fluency/20/cloud.png" width="18" /> Cloud & DevOps | **6+** |
+| <img src="https://img.icons8.com/fluency/20/source-code.png" width="18" /> Developer Tools | **8+** |
+| <img src="https://img.icons8.com/fluency/20/blockchain-technology.png" width="18" /> Blockchain & Web3 | **5+** |
+| <img src="https://img.icons8.com/fluency/20/synchronize.png" width="18" /> Real-Time Applications | **5+** |
+| <img src="https://img.icons8.com/fluency/20/smartphone-tablet.png" width="18" /> Mobile & IoT | **5+** |
+| <img src="https://img.icons8.com/fluency/20/web-design.png" width="18" /> Interactive Web Experiences | **10+** |
 
 </div>
 
