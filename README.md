@@ -89,6 +89,8 @@ while (alive)
 ---
 
 <img src="./assets/divider.png"/>
+<div align="center">
+
 #  Engineering Portfolio
 
 > Over the years, I've explored multiple domains—from AI-powered platforms and enterprise systems to blockchain, IoT, developer tools, and interactive web experiences. Every project has contributed to expanding my understanding of scalable software engineering.
@@ -238,6 +240,8 @@ while (alive)
 </tr>
 
 </table>
+</table>
+</div>
 
 ---
 
