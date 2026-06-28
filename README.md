@@ -269,7 +269,7 @@ while (alive)
 
 <br>
 
-<img src="./assets/divider.svg" width="100%">
+<img src="./assets/divider2.png" width="100%">
 # Innovation Lab
 
 > Beyond building applications, I'm deeply interested in solving complex engineering challenges involving distributed systems, cryptography, artificial intelligence, and scalable infrastructure.
