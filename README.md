@@ -44,16 +44,15 @@ Currently, I'm working on products used by thousands of users while researching 
 
 <div align="center">
 
-| 🚀 Projects | 🏢 Production Platforms | 👥 Users Served | 🏆 Hackathons |
-|:----------:|:----------------------:|:--------------:|:------------:|
+| <img src="https://img.icons8.com/fluency/20/rocket.png" width="18" /> Projects | <img src="https://img.icons8.com/fluency/20/company.png" width="18" /> Production Platforms | <img src="https://img.icons8.com/fluency/20/group.png" width="18" /> Users Served | <img src="https://img.icons8.com/fluency/20/trophy.png" width="18" /> Hackathons |
+|:--------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------:|
 | **45+** | **10+** | **10K+** | **2 Wins** |
 
-| 💻 Repositories | 🤖 AI Projects | ☁ Cloud | 📚 Research |
-|:--------------:|:-------------:|:-------:|:-----------:|
+| <img src="https://img.icons8.com/fluency/20/source-code.png" width="18" /> Repositories | <img src="https://img.icons8.com/fluency/20/artificial-intelligence.png" width="18" /> AI Projects | <img src="https://img.icons8.com/fluency/20/cloud.png" width="18" /> Cloud | <img src="https://img.icons8.com/fluency/20/microscope.png" width="18" /> Research |
+|:------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------:|
 | **90+** | **8+** | **AWS · Docker · Kubernetes** | **Offline Payments** |
 
 </div>
-
 ---
 
 #  Currently Building
