@@ -30,7 +30,7 @@
 
 ---
 
-# 👨‍💻 About Me
+#  About Me
 
 I'm a software engineer passionate about building **high-performance systems**, **production-ready web platforms**, and **scalable backend architectures**.
 
@@ -40,7 +40,7 @@ Currently, I'm working on products used by thousands of users while researching 
 
 ---
 
-# 🚀 Engineering Snapshot
+#  Engineering Snapshot
 
 <div align="center">
 
@@ -56,7 +56,7 @@ Currently, I'm working on products used by thousands of users while researching 
 
 ---
 
-# ⚡ Currently Building
+#  Currently Building
 
 ```text
 🚀 SPManager: AI Powered Project Management Platform
