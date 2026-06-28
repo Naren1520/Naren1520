@@ -4,8 +4,6 @@
 
 <br>
 
-# Naren S J
-
 ### Systems Builder • Full Stack Engineer • Technical Head
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=2500&color=FFFFFF&center=true&vCenter=true&width=900&lines=Building+Scalable+Software;Designing+Production+Grade+Platforms;Researching+Offline+Payment+Systems;Always+Learning+Something+New"/>
