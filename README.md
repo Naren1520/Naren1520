@@ -72,7 +72,7 @@ Currently, I'm working on products used by thousands of users while researching 
 
 ---
 
-# 💡 Engineering Philosophy
+#  Engineering Philosophy
 
 ```cpp
 while (alive)
@@ -88,7 +88,7 @@ while (alive)
 
 ---
 
-<img src="./assets/divider.svg"/>
+<img src="./assets/divider.png"/>
 #  Engineering Portfolio
 
 > Over the years, I've explored multiple domains—from AI-powered platforms and enterprise systems to blockchain, IoT, developer tools, and interactive web experiences. Every project has contributed to expanding my understanding of scalable software engineering.
