@@ -304,7 +304,7 @@ while (alive)
 <br>
 
 <img src="./assets/divider.svg" width="100%">
-# 🧪 Innovation Lab
+# Innovation Lab
 
 > Beyond building applications, I'm deeply interested in solving complex engineering challenges involving distributed systems, cryptography, artificial intelligence, and scalable infrastructure.
 
@@ -345,7 +345,7 @@ Designing a secure payment architecture capable of executing peer-to-peer transa
 
 <td width="50%" valign="top">
 
-## 🚀 Building Right Now
+##  Building Right Now
 
 ### 🏢 SPManager
 
@@ -415,23 +415,6 @@ AI-powered project management ecosystem focused on automation, collaboration, an
 </div>
 
 ---
-
-# 📈 Continuous Growth
-
-```cpp
-while (career)
-{
-    Learn();
-
-    Build();
-
-    Optimize();
-
-    Contribute();
-
-    Repeat();
-}
-```
 
 > *"The best software isn't measured by the amount of code written, but by the problems it solves and the people it empowers."*
 
@@ -563,7 +546,7 @@ while (career)
 
 ---
 
-# 🧩 Engineering Stack Overview
+#  Engineering Stack Overview
 
 <div align="center">
 
@@ -585,7 +568,7 @@ while (career)
 > **"Technology evolves constantly. Strong engineering principles remain timeless."**
 
 <img src="./assets/divider.svg" width="100%">
-# 💼 Engineering Journey
+#  Engineering Journey
 
 > Every opportunity has been a chance to build products, lead teams, and solve real-world engineering challenges.
 
@@ -618,7 +601,7 @@ Present
 
 ---
 
-# 🏆 Highlights
+#  Highlights
 
 <div align="center">
 
@@ -635,7 +618,7 @@ Present
 
 ---
 
-# 📊 GitHub Analytics
+#  GitHub Analytics
 
 <div align="center">
 
@@ -655,7 +638,7 @@ Present
 
 ---
 
-# 📈 Contribution Activity
+#  Contribution Activity
 
 <div align="center">
 
@@ -664,8 +647,6 @@ Present
 </div>
 
 ---
-
-# 🐍 Contribution Snake
 
 <div align="center">
 
@@ -685,7 +666,7 @@ Present
 
 ---
 
-# 📌 Currently Exploring
+#  Currently Exploring
 
 <div align="center">
 
