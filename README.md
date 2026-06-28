@@ -59,8 +59,7 @@ Currently, I'm working on products used by thousands of users while researching 
 # ⚡ Currently Building
 
 ```text
-🚀 SPManager
-      AI Powered Project Management Platform
+🚀 SPManager: AI Powered Project Management Platform
 
 🧠 Cryptographic Offline Payment Protocols
 
@@ -68,7 +67,7 @@ Currently, I'm working on products used by thousands of users while researching 
 
 ☁ Cloud Native Applications
 
-📚 Preparing for Google SWE Internship 2027
+
 ```
 
 ---
@@ -90,7 +89,7 @@ while (alive)
 ---
 
 <img src="./assets/divider.svg"/>
-# 🚀 Engineering Portfolio
+#  Engineering Portfolio
 
 > Over the years, I've explored multiple domains—from AI-powered platforms and enterprise systems to blockchain, IoT, developer tools, and interactive web experiences. Every project has contributed to expanding my understanding of scalable software engineering.
 
