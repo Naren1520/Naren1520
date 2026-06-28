@@ -577,26 +577,26 @@ AI-powered project management ecosystem focused on automation, collaboration, an
 ```text
 Present
 │
-├── 👑 Technical Head @ ISDC
+├──  Technical Head @ ISDC
 │      • Leading engineering initiatives
 │      • Standardizing development workflows
 │      • Mentoring developers
 │      • Conducting technical interviews
 │
-├── 💼 Software Development Intern
+├──  Software Development Intern
 │      Sahynex Tech Solutions
 │      • Built scalable production platforms
 │      • Improved application performance
 │      • Delivered systems serving 10K+ users
 │
-├── 🚀 Full Stack Developer
+├──  Full Stack Developer
 │      Challengers
 │      • Developed Aerophilia 2025 Platform
 │      • Managed event infrastructure
 │
-└── 💻 Full Stack Developer
-       Passionate about building software,
-       distributed systems and cloud platforms.
+└──  FreeLancer
+       • Building Business Portfolio
+│      • Contributing to opensource projects
 ```
 
 ---
@@ -656,15 +656,6 @@ Present
 
 ---
 
-# 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Naren1520&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15"/>
-
-</div>
-
----
 
 #  Currently Exploring
 
@@ -678,7 +669,7 @@ Present
 
 ---
 
-# 🤝 Let's Connect
+#  Let's Connect
 
 <div align="center">
 
