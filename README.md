@@ -91,7 +91,6 @@ while (alive)
 <img src="./assets/divider.png"/>
 <div align="center">
 
-#  Engineering Portfolio
 
 > Over the years, I've explored multiple domains—from AI-powered platforms and enterprise systems to blockchain, IoT, developer tools, and interactive web experiences. Every project has contributed to expanding my understanding of scalable software engineering.
 
@@ -247,7 +246,7 @@ while (alive)
 
 <div align="center">
 
-### 📈 Project Landscape
+### Project Landscape
 
 | Domain | Projects |
 |---------|---------:|
@@ -351,7 +350,7 @@ AI-powered project management ecosystem focused on automation, collaboration, an
 
 ---
 
-# 🧠 Engineering Principles
+#  Engineering Principles
 
 <div align="center">
 
@@ -367,7 +366,7 @@ AI-powered project management ecosystem focused on automation, collaboration, an
 </div>
 ---
 
-# ⚙ Areas of Interest
+#  Areas of Interest
 
 <div align="center">
 
@@ -387,13 +386,13 @@ AI-powered project management ecosystem focused on automation, collaboration, an
 ---
 
 <img src="./assets/divider3.png" width="100%">
-# ⚙ Engineering Toolkit
+# <div align="center">⚙</div> 
 
 > Technologies are just tools. My focus is choosing the right ones to build reliable, scalable and maintainable software.
 
 <br>
 
-## 💻 Languages
+##  Languages
 
 <p align="center">
 
@@ -408,7 +407,7 @@ AI-powered project management ecosystem focused on automation, collaboration, an
 
 ---
 
-## 🎨 Frontend
+##  Frontend
 
 <p align="center">
 
@@ -423,7 +422,7 @@ AI-powered project management ecosystem focused on automation, collaboration, an
 
 ---
 
-## ⚡ Backend
+##  Backend
 
 <p align="center">
 
@@ -438,7 +437,7 @@ AI-powered project management ecosystem focused on automation, collaboration, an
 
 ---
 
-## 🗄 Databases
+##  Databases
 
 <p align="center">
 
@@ -453,7 +452,7 @@ AI-powered project management ecosystem focused on automation, collaboration, an
 
 ---
 
-## ☁ Cloud • DevOps • Infrastructure
+##  Cloud • DevOps • Infrastructure
 
 <p align="center">
 
@@ -469,7 +468,7 @@ AI-powered project management ecosystem focused on automation, collaboration, an
 
 ---
 
-## 🤖 Artificial Intelligence
+##  Artificial Intelligence
 
 <p align="center">
 
@@ -484,7 +483,7 @@ AI-powered project management ecosystem focused on automation, collaboration, an
 
 ---
 
-## 🔗 Blockchain
+##  Blockchain
 
 <p align="center">
 
@@ -497,7 +496,7 @@ AI-powered project management ecosystem focused on automation, collaboration, an
 
 ---
 
-## 🛠 Tools
+##  Tools
 
 <p align="center">
 
