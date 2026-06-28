@@ -516,14 +516,14 @@ AI-powered project management ecosystem focused on automation, collaboration, an
 
 | Layer | Technologies |
 |:------|:-------------|
-| 🎨 Frontend | React • Next.js • Tailwind CSS |
-| ⚙ Backend | Node.js • Express • Socket.IO |
-| 🗄 Databases | MongoDB • PostgreSQL • Redis |
-| ☁ Infrastructure | Docker • Kubernetes • AWS • Cloudflare |
-| 🤖 AI | RAG • OpenAI • LangChain |
-| 🔗 Blockchain | Solidity • Ethereum |
-| 📱 Mobile | Flutter • Firebase |
-| ⚡ Systems | Linux • Kafka • REST APIs |
+| <img src="https://img.icons8.com/fluency/20/web-design.png" width="18" /> Frontend | React • Next.js • Tailwind CSS |
+| <img src="https://img.icons8.com/fluency/20/server.png" width="18" /> Backend | Node.js • Express • Socket.IO |
+| <img src="https://img.icons8.com/fluency/20/database.png" width="18" /> Databases | MongoDB • PostgreSQL • Redis |
+| <img src="https://img.icons8.com/fluency/20/cloud.png" width="18" /> Infrastructure | Docker • Kubernetes • AWS • Cloudflare |
+| <img src="https://img.icons8.com/fluency/20/artificial-intelligence.png" width="18" /> AI | RAG • OpenAI • LangChain |
+| <img src="https://img.icons8.com/fluency/20/blockchain-technology.png" width="18" /> Blockchain | Solidity • Ethereum |
+| <img src="https://img.icons8.com/fluency/20/smartphone-tablet.png" width="18" /> Mobile | Flutter • Firebase |
+| <img src="https://img.icons8.com/fluency/20/processor.png" width="18" /> Systems | Linux • Kafka • REST APIs |
 
 </div>
 
