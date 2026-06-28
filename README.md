@@ -1,168 +1,791 @@
 <div align="center">
-  <img src="./banner.svg" width="100%" alt="Naren S J — Technical Head · Full Stack Engineer · Systems Builder"/>
+
+<img src="./assets/banner.svg" width="100%" alt="Banner"/>
+
+<br>
+
+# Naren S J
+
+### Systems Builder • Full Stack Engineer • Technical Head
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=2500&color=FFFFFF&center=true&vCenter=true&width=900&lines=Building+Scalable+Software;Designing+Production+Grade+Platforms;Researching+Offline+Payment+Systems;Always+Learning+Something+New"/>
+
+<br>
+
+<a href="https://narensj.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/narensj20">
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Naren1520">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:narensonu1520@gmail.com">
+<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </div>
 
-<br/>
+---
+
+# 👨‍💻 About Me
+
+I'm a software engineer passionate about building **high-performance systems**, **production-ready web platforms**, and **scalable backend architectures**.
+
+Rather than simply developing applications, I enjoy solving engineering problems—from distributed systems and real-time communication to cloud infrastructure and AI-powered automation.
+
+Currently, I'm working on products used by thousands of users while researching secure offline payment architectures and continuously exploring modern system design.
+
+---
+
+# 🚀 Engineering Snapshot
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-narensj.netlify.app-ffffff?style=flat-square&logo=netlify&logoColor=black&labelColor=0d0d0d)](https://narensj.netlify.app)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-narensj20-ffffff?style=flat-square&logo=linkedin&logoColor=black&labelColor=0d0d0d)](https://linkedin.com/in/narensj20)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Naren1520-ffffff?style=flat-square&logo=github&logoColor=black&labelColor=0d0d0d)](https://github.com/Naren1520)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-narensonu1520@gmail.com-ffffff?style=flat-square&logo=gmail&logoColor=black&labelColor=0d0d0d)](mailto:narensonu1520@gmail.com)
-&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-naren__s.j.__-ffffff?style=flat-square&logo=instagram&logoColor=black&labelColor=0d0d0d)](https://instagram.com/naren_s.j._)
+| 🚀 Projects | 🏢 Production Platforms | 👥 Users Served | 🏆 Hackathons |
+|:----------:|:----------------------:|:--------------:|:------------:|
+| **45+** | **10+** | **10K+** | **2 Wins** |
+
+| 💻 Repositories | 🤖 AI Projects | ☁ Cloud | 📚 Research |
+|:--------------:|:-------------:|:-------:|:-----------:|
+| **90+** | **8+** | **AWS · Docker · Kubernetes** | **Offline Payments** |
 
 </div>
 
 ---
 
-## About
+# ⚡ Currently Building
 
-Software engineer and Technical Head at ISDC, focused on architecting and scaling production-grade platforms. I work across the full stack — from system design and backend infrastructure to frontend performance and team engineering standards. Currently building platforms that serve 10,000+ users and pursuing research in cryptographic offline payment protocols.
+```text
+🚀 SPManager
+      AI Powered Project Management Platform
 
-> BE in Information Science Engineering · Sahyadri College of Engineering and Management, Mangaluru (2028)
+🧠 Cryptographic Offline Payment Protocols
 
----
+⚙ High Performance Backend Systems
 
-## Experience
+☁ Cloud Native Applications
 
+📚 Preparing for Google SWE Internship 2027
 ```
-Present ◄──────────────────────────────────────────── Oct 2024
-   │
-   ├── 👑  Technical Head @ ISDC (Promoted Feb 2026)
-   │       ├─ Architecting 10+ production-grade platforms
-   │       ├─ Standardised Next.js workflows → +30% efficiency
-   │       └─ Mentoring devs · Conducting technical interviews
-   │
-   ├── 💼  Software Dev Intern @ Sahynex Tech Solutions (Oct 2025)
-   │       ├─ Deployed platforms → 10,000+ active users
-   │       └─ Cut page load time by 35% ⚡
-   │
-   └── 🚀  Full Stack Developer @ Challengers
-           └─ Built Aerophilia 2025 platform → 2,000+ attendees
+
+---
+
+# 💡 Engineering Philosophy
+
+```cpp
+while (alive)
+{
+    Learn();
+    Build();
+    Improve();
+    Share();
+}
+```
+
+> **"I enjoy building software that is scalable, maintainable, and solves real-world problems—not just applications that work."**
+
+---
+
+<img src="./assets/divider.svg"/>
+# 🚀 Engineering Portfolio
+
+> Over the years, I've explored multiple domains—from AI-powered platforms and enterprise systems to blockchain, IoT, developer tools, and interactive web experiences. Every project has contributed to expanding my understanding of scalable software engineering.
+
+<br>
+
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
+## 🏢 Production Platforms
+
+- 🚀 SPManager
+- 🎓 Placement Management System
+- 🎪 Aerophilia 2025
+- 🏫 Hostel Management System
+- 🏛️ ISDC Platform
+- 📚 MBA Department Portal
+- 🍽️ Tandoor Restaurant Platform
+- 🛕 Shreematha Website
+- 💼 Sahynex Client Projects
+- 🌐 Personal Portfolio
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🤖 Artificial Intelligence
+
+- 🧠 Vanijya AI
+- 📄 BrainScript
+- 💬 AI Assistant
+- 🎨 AI Image Generator
+- 🔎 Snap Search
+- 🚦 Traffix AI
+- 🛡️ WAF Transformer
+- 📊 AI Resume Analyzer
+- 📝 AI Notes Generator
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
+## 🔗 Blockchain & Web3
+
+- ⛓️ CredChain
+- 💼 WorkFox
+- 💳 Offline Payment System
+- 🔐 Smart Contract Experiments
+- 🪙 Ethereum DApps
+
+</td>
+
+<td width="50%" valign="top">
+
+## ☁️ Cloud & DevOps
+
+- 🐳 Docker Deployments
+- ☸ Kubernetes Experiments
+- ⚡ CI/CD Pipelines
+- 🌍 Cloudflare Integrations
+- 📦 Containerized Platforms
+- 🔄 Reverse Proxy Systems
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
+## 📱 Productivity & SaaS
+
+- 📋 TaskMatrix
+- 📦 NexStock
+- 🎓 CampusLink
+- 📝 Notes App
+- 🌐 Language Translator
+- 📖 Dictionary
+- 🧮 SGPA Calculator
+- 📅 Event Manager
+- 💰 Expense Tracker
+- ⏱️ Attendance Tracker
+
+</td>
+
+<td width="50%" valign="top">
+
+## 💻 Developer Tools
+
+- ⚙️ Live Code Editor
+- 🌸 Bloom Filter
+- 🖥️ Terminal Clone
+- 📦 Package Explorer
+- 📡 REST API Playground
+- 🔥 Markdown Previewer
+- 🔍 JSON Formatter
+- ⚡ Regex Playground
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
+## 📡 Real-Time Systems
+
+- 💬 Chat Application
+- 📹 Video Meeting Platform
+- 📢 Live Notification System
+- 🔔 Real-Time Dashboard
+- 📍 Live Location Tracker
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🌐 Web Experiences
+
+- 🌦️ Weather App
+- 🎬 Movie Platform
+- 🎹 Virtual Piano
+- ⌨ Typing Speed Test
+- 🎨 SketchOn
+- 📷 QR Generator
+- ⏰ Analog Clock
+- ⏱ Stopwatch
+- 🎲 Interactive Games
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
+## 📱 Mobile & IoT
+
+- ⚡ Hydrogen Monitoring System
+- 📲 Flutter Applications
+- 🌡️ IoT Monitoring Dashboard
+- 📡 ESP32 Projects
+- 🔥 Firebase Integrations
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🧪 Experimental Projects
+
+- 🔒 Authentication Systems
+- 🌍 URL Shortener
+- 📤 File Sharing
+- 📈 Analytics Dashboards
+- 🎭 UI Experiments
+- ⚡ Performance Benchmarks
+- 🧩 Design System Components
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### 📈 Project Landscape
+
+| Domain | Projects |
+|---------|---------:|
+| 🏢 Production Platforms | **10+** |
+| 🤖 Artificial Intelligence | **8+** |
+| 📱 Productivity & SaaS | **10+** |
+| ☁ Cloud & DevOps | **6+** |
+| 💻 Developer Tools | **8+** |
+| 🔗 Blockchain & Web3 | **5+** |
+| 📡 Real-Time Applications | **5+** |
+| 📱 Mobile & IoT | **5+** |
+| 🎨 Interactive Web Experiences | **10+** |
+
+</div>
+
+---
+
+> **Every project represents a step toward mastering scalable software engineering, distributed systems, cloud-native architecture, AI integration, and user-centric product development.**
+
+<br>
+
+<img src="./assets/divider.svg" width="100%">
+# 🧪 Innovation Lab
+
+> Beyond building applications, I'm deeply interested in solving complex engineering challenges involving distributed systems, cryptography, artificial intelligence, and scalable infrastructure.
+
+<br>
+
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
+## 🔬 Current Research
+
+### 💳 Cryptographic Offline Payments
+
+Designing a secure payment architecture capable of executing peer-to-peer transactions **without internet connectivity** while preventing double spending through hardware-assisted cryptographic verification.
+
+**Current Focus**
+
+- 🔐 Secure Token Verification
+- 💳 Smart Card Architecture
+- ⚡ Low-Latency Verification
+- 🌐 Offline Synchronization
+- 🧩 Distributed Consensus
+- 🛡️ Double Spend Prevention
+
+---
+
+### 📖 Exploring
+
+- Distributed Systems
+- High Performance Networking
+- Secure System Design
+- Hardware Security
+- Cloud Native Architecture
+- AI Infrastructure
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🚀 Building Right Now
+
+### 🏢 SPManager
+
+AI-powered project management ecosystem focused on automation, collaboration, analytics and intelligent workflow management.
+
+---
+
+### ⚙ Engineering Goals
+
+✓ Production-grade backend systems
+
+✓ Highly scalable architectures
+
+✓ Cloud-native applications
+
+✓ Event-driven microservices
+
+✓ AI-powered developer tools
+
+✓ Real-time collaboration platforms
+
+---
+
+### 🌱 Currently Learning
+
+- Kubernetes
+- Apache Kafka
+- System Design
+- Advanced Redis
+- Rust
+- Go
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🧠 Engineering Principles
+
+<div align="center">
+
+| ⚡ | Principle |
+|:--:|-----------|
+| 🚀 | Performance over unnecessary complexity |
+| 🧩 | Build systems that scale gracefully |
+| 🔒 | Security should never be an afterthought |
+| 📦 | Clean architecture improves maintainability |
+| 🤝 | Great software is built through collaboration |
+| 📚 | Continuous learning drives continuous improvement |
+
+</div>
+
+---
+
+# 🎯 Current Mission
+
+```text
+MISSION STATUS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+██████████████░░░░░░░░░  65%
+
+Building
+▣ SPManager Platform
+
+Research
+▣ Offline Payment Infrastructure
+
+Learning
+▣ Distributed Systems
+▣ Kubernetes
+▣ Kafka
+▣ Cloud Architecture
+
+Preparing
+▣ Google SWE Internship 2027
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
 ---
 
-## Achievements
+# 📍 Engineering Roadmap
+
+```text
+2026
+│
+├── 🚀 Build Production Platforms
+├── ☁ Master Cloud Infrastructure
+├── ⚙ Advanced Backend Engineering
+│
+2027
+│
+├── 🤖 AI Infrastructure
+├── 🧠 Distributed Systems
+├── 💼 Google SWE Internship
+│
+2028+
+│
+├── 🌍 Open Source Contributions
+├── 🔬 Systems Research
+├── 🚀 Build Products at Scale
+└── 💡 Engineer Technology That Creates Impact
+```
+
+---
+
+# ⚙ Areas of Interest
 
 <div align="center">
 
-| | Achievement |
-|:---:|:---|
-| 🏆 | **Winner** — HackHarbor 3.0 |
-| 🏆 | **Winner** — GDG TechSprint |
-| 🥇 | **Best Innovative Project** — Versathon 1.0 |
-| 🚀 | **Finalist** — BuildForBillion (Incub8) |
-| ☁️ | **Finalist** — AWS AI Prompt Challenge |
-| 🌍 | **Semi-Finalist** — EY Techathon 6.0, India |
+| Backend | Cloud | AI | Systems |
+|:-------:|:----:|:--:|:------:|
+| Distributed Systems | Kubernetes | LLM Applications | Operating Systems |
+| API Design | Docker | RAG | Networking |
+| Authentication | AWS | AI Automation | Cryptography |
+| Databases | Cloudflare | NLP | Performance Engineering |
 
 </div>
 
 ---
 
-## Tech Stack
+# 📈 Continuous Growth
 
-#### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB)
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=ffffff)
-![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=ffffff)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=ffffff)
+```cpp
+while (career)
+{
+    Learn();
 
-#### Frontend
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=ffffff)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6)
-![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E)
+    Build();
 
-#### Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=6DA55F)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=ffffff)
-![Socket.io](https://img.shields.io/badge/Socket.io-000000?style=for-the-badge&logo=socket.io&logoColor=ffffff)
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=DC382D)
-![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+    Optimize();
 
-#### Blockchain
-![Solidity](https://img.shields.io/badge/Solidity-000000?style=for-the-badge&logo=solidity&logoColor=ffffff)
-![Ethereum](https://img.shields.io/badge/Ethereum-000000?style=for-the-badge&logo=ethereum&logoColor=ffffff)
+    Contribute();
 
-#### DevOps & Cloud & Tools
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
-![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![Azure](https://img.shields.io/badge/Azure-000000?style=for-the-badge&logo=microsoft-azure&logoColor=0078D4)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-000000?style=for-the-badge&logo=cloudflare&logoColor=F38020)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=ffffff)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
-![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apache-kafka&logoColor=ffffff)
-![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=FF6C37)
-![n8n](https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=EA4B71)
+    Repeat();
+}
+```
+
+> *"The best software isn't measured by the amount of code written, but by the problems it solves and the people it empowers."*
 
 ---
 
-## Projects
+<img src="./assets/divider.svg" width="100%">
+# ⚙ Engineering Toolkit
 
-**SPManager** — AI-Powered Project Management Platform
+> Technologies are just tools. My focus is choosing the right ones to build reliable, scalable and maintainable software.
 
-`Next.js · MongoDB · Docker · Kubernetes · Socket.io · Redis · Cloudflare R2 · GitHub API`
+<br>
 
-- Reduced manual project management effort by 80% using AI-driven task automation
-- Integrated a RAG model to parse requirement documents and auto-assign tasks by skill matching
-- Real-time collaboration via Socket.io and Jitsi, cutting communication delays by 99%
-- Scalable backend with database sharding and Bloom filters to optimise API throughput
+## 💻 Languages
 
-**IoT-Based Hydrogen Monitoring System** — Client: HYDGEN
+<p align="center">
 
-`Flutter · C · ESP32 · Firebase`
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
 
-- Real-time hydrogen monitoring deployed in an industrial environment using ESP32
-- Flutter app for live visualisation and hazard alerts, reducing response time by 90%
-- Automated alert system improving detection reliability and operational safety
-
----
-
-## Research
-
-**Cryptographic Offline Payment Protocols & Chip Architecture** — *Ongoing*
-
-- Developing a secure token-verification scheme to prevent double-spending in offline P2P transactions
-- Evaluating low-latency cryptographic hardware for on-device verification without network round-trips
+</p>
 
 ---
 
-## GitHub Stats
+## 🎨 Frontend
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js"/>
+<img src="https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss"/>
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3"/>
+<img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma"/>
+
+</p>
+
+---
+
+## ⚡ Backend
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express"/>
+<img src="https://img.shields.io/badge/Socket.io-000000?style=for-the-badge&logo=socket.io"/>
+<img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/WebSockets-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 🗄 Databases
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb"/>
+<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql"/>
+<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql"/>
+<img src="https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis"/>
+<img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase"/>
+<img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase"/>
+
+</p>
+
+---
+
+## ☁ Cloud • DevOps • Infrastructure
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker"/>
+<img src="https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes"/>
+<img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Azure-000000?style=for-the-badge&logo=microsoftazure"/>
+<img src="https://img.shields.io/badge/Cloudflare-000000?style=for-the-badge&logo=cloudflare"/>
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux"/>
+<img src="https://img.shields.io/badge/Nginx-000000?style=for-the-badge&logo=nginx"/>
+
+</p>
+
+---
+
+## 🤖 Artificial Intelligence
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vector_Databases-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI_Agents-000000?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 🔗 Blockchain
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Solidity-000000?style=for-the-badge&logo=solidity"/>
+<img src="https://img.shields.io/badge/Ethereum-000000?style=for-the-badge&logo=ethereum"/>
+<img src="https://img.shields.io/badge/Smart_Contracts-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Web3-000000?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 🛠 Tools
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman"/>
+<img src="https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka"/>
+<img src="https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n"/>
+<img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode"/>
+
+</p>
+
+---
+
+# 🧩 Engineering Stack Overview
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Naren1520&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&icon_color=ffffff&text_color=888888" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Naren1520&theme=github-dark-blue&hide_border=true&background=0d0d0d&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=555555" />
+
+| Layer | Technologies |
+|:------|:-------------|
+| 🎨 Frontend | React • Next.js • Tailwind CSS |
+| ⚙ Backend | Node.js • Express • Socket.IO |
+| 🗄 Databases | MongoDB • PostgreSQL • Redis |
+| ☁ Infrastructure | Docker • Kubernetes • AWS • Cloudflare |
+| 🤖 AI | RAG • OpenAI • LangChain |
+| 🔗 Blockchain | Solidity • Ethereum |
+| 📱 Mobile | Flutter • Firebase |
+| ⚡ Systems | Linux • Kafka • REST APIs |
+
 </div>
 
+---
+
+> **"Technology evolves constantly. Strong engineering principles remain timeless."**
+
+<img src="./assets/divider.svg" width="100%">
+# 💼 Engineering Journey
+
+> Every opportunity has been a chance to build products, lead teams, and solve real-world engineering challenges.
+
+<br>
+
+```text
+Present
+│
+├── 👑 Technical Head @ ISDC
+│      • Leading engineering initiatives
+│      • Standardizing development workflows
+│      • Mentoring developers
+│      • Conducting technical interviews
+│
+├── 💼 Software Development Intern
+│      Sahynex Tech Solutions
+│      • Built scalable production platforms
+│      • Improved application performance
+│      • Delivered systems serving 10K+ users
+│
+├── 🚀 Full Stack Developer
+│      Challengers
+│      • Developed Aerophilia 2025 Platform
+│      • Managed event infrastructure
+│
+└── 💻 Full Stack Developer
+       Passionate about building software,
+       distributed systems and cloud platforms.
+```
+
+---
+
+# 🏆 Highlights
+
 <div align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naren1520&layout=compact&langs_count=10&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888" />
+
+| 🏅 Achievement | Result |
+|:--------------|:------|
+| 🏆 HackHarbor 3.0 | Winner |
+| 🏆 GDG TechSprint | Winner |
+| 🥇 Versathon 1.0 | Best Innovative Project |
+| 🚀 BuildForBillion | Finalist |
+| ☁ AWS AI Prompt Challenge | Finalist |
+| 🌍 EY Techathon 6.0 | Semi Finalist |
+
 </div>
 
 ---
 
-## Contribution Activity
+# 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github.com/Naren1520/Naren1520/blob/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Naren1520&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=999999"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=Naren1520&theme=github-dark&hide_border=true&background=000000"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naren1520&layout=compact&theme=github_dark&hide_border=true&bg_color=000000"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Naren1520&theme=github-dark&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Naren1520/Naren1520/output/github-contribution-grid-snake.svg"/>
+
+</div>
+
+---
+
+# 🏅 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Naren1520&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# 📌 Currently Exploring
+
+<div align="center">
+
+| 🧠 Research | ☁ Cloud | ⚙ Backend | 🤖 AI |
+|:----------:|:-------:|:---------:|:----:|
+| Offline Payment Systems | Kubernetes | Distributed Systems | RAG |
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://narensj.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/narensj20">
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:narensonu1520@gmail.com">
+<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Naren1520">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Naren1520&style=flat-square&color=ffffff&labelColor=0d0d0d&label=PROFILE+VIEWS" />
+
+### Thanks for stopping by! 
+
+*"Engineering is not just writing code — it's designing solutions that scale, last, and create impact."*
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Naren1520&style=for-the-badge&color=000000"/>
+
 </div>
