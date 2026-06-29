@@ -38,7 +38,7 @@ Rather than simply developing applications, I enjoy solving engineering problems
 
 Currently, I'm working on products used by thousands of users while researching secure offline payment architectures and continuously exploring modern system design.
 
----
+
 
 #  Engineering Snapshot
 
@@ -53,7 +53,7 @@ Currently, I'm working on products used by thousands of users while researching 
 | **90+** | **8+** | **AWS · Docker · Kubernetes** | **Offline Payments** |
 
 </div>
----
+
 
 #  Currently Building
 
