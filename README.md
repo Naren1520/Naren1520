@@ -559,7 +559,7 @@ Present
 │
 └──  FreeLancer
        • Building Business Portfolio
-│      • Contributing to opensource projects
+       • Contributing to opensource projects
 ```
 
 ---
