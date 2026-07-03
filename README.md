@@ -125,7 +125,6 @@ while (alive)
 - 🔎 Snap Search
 - 🚦 Traffix AI
 - 🛡️ WAF Transformer
-- 📊 AI Resume Analyzer
 
 </td>
 
