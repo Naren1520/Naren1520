@@ -584,38 +584,12 @@ Present
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Naren1520&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=999999"/>
-
 <img width="49%" src="https://streak-stats.demolab.com?user=Naren1520&theme=github-dark&hide_border=true&background=000000"/>
 
 </div>
 
-<br>
-
-<div align="center">
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naren1520&layout=compact&theme=github_dark&hide_border=true&bg_color=000000"/>
-
-</div>
 
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Naren1520&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=999999&cache_seconds=1800"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=Naren1520&theme=github-dark&hide_border=true&background=000000"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naren1520&layout=compact&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=999999&langs_count=8"/>
-
-</div>
 
 ---
 
