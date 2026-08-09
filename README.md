@@ -178,7 +178,6 @@ while (alive)
 
 - ⚙️ Live Code Editor
 - 🌸 Bloom Filter
-- 🖥️ Terminal Clone
 - 📦 Package Explorer
 - 📡 REST API Playground
 - 🔥 Markdown Previewer
