@@ -587,6 +587,10 @@ Present
 
 </div>
 
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Naren1520&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=EC4899&text_color=E2E8F0" alt="Tharun's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Naren1520&layout=compact&hide=c%2B%2B,c&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=E2E8F0" alt="Top Languages" />
+</p>
 
 
 
