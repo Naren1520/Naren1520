@@ -58,13 +58,13 @@ Currently, I'm working on products used by thousands of users while researching 
 #  Currently Building
 
 ```text
-🚀 SPManager: AI Powered Project Management Platform
+ SPManager: AI Powered Project Management Platform
 
-🧠 Cryptographic Offline Payment Protocols
+ Cryptographic Offline Payment Protocols
 
-⚙ High Performance Backend Systems
+ High Performance Backend Systems
 
-☁ Cloud Native Applications
+ Cloud Native Applications
 
 
 ```
