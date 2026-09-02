@@ -538,6 +538,12 @@ AI-powered project management ecosystem focused on automation, collaboration, an
 ```text
 Present
 │
+├──  Ai Engineer
+│      • Building Rag Models
+│      • Finetuning the model
+│      • Debugging
+│      • Application Integration
+│
 ├──  Technical Head @ ISDC
 │      • Leading engineering initiatives
 │      • Standardizing development workflows
