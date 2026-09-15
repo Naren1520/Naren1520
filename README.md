@@ -539,12 +539,14 @@ AI-powered project management ecosystem focused on automation, collaboration, an
 Present
 │
 ├──  Ai Engineer
+│      Datavex.Ai
 │      • Building Rag Models
 │      • Finetuning the model
 │      • Debugging
 │      • Application Integration
 │
-├──  Technical Head @ ISDC
+├──  Technical Head
+│      ISDC
 │      • Leading engineering initiatives
 │      • Standardizing development workflows
 │      • Mentoring developers
