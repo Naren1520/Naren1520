@@ -110,7 +110,7 @@ while (alive)
 - 🏛️ ISDC Platform
 - 📚 MBA Portal
 - 🍽️ Tandoor
-- 🌐 Portfolio
+- 🌐 CRIMSON
 
 </td>
 
