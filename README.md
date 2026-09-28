@@ -563,6 +563,9 @@ Present
 │      • Developed Aerophilia 2025 Platform
 │      • Managed event infrastructure
 │
+├──  Research and Innovation Co-cordinator
+│      MINDs Assosciation
+│ 
 └──  FreeLancer
        • Building Business Portfolio
        • Contributing to opensource projects
